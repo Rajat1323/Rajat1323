@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Rajat Sahoo  
 
-<!--
-**Rajat1323/Rajat1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | ⚡ DevOps | 🌍 GIS & Aviation Projects  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **NestJS, Angular, GIS, 3D Visualization**  
+- 🌱 Learning: **Kubernetes & Cloud Deployments**  
+- 💬 Ask me about: **Node.js, Python, Docker, Jenkins**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com)  
+- ⚡ Fun fact: I love solving complex problems with simple solutions!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Tech Stack  
+`Node.js` · `NestJS` · `Angular` · `Python` · `Docker` · `Jenkins` · `PostgreSQL`
+
+---
+### 📈 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatsahoo&show_icons=true&theme=radical)
+
